@@ -1,5 +1,5 @@
 # BOJ-class1
-ps of Baekjoon OJ- class1
+Class1 풀이집
 
 - 1002번
 - 
